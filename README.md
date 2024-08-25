@@ -15,7 +15,7 @@ the download directory of the FSRCNN.bin file.
 
 	D) Pillow - "pip install pillow"
 
-4. Open the directory in Command Prompt and run this command: "streamlit run app.py" (without quotation marks)
+5. Open the directory in Command Prompt and run this command: "streamlit run app.py" (without quotation marks)
 This will open up the webpage for the tool. 
 
 Do as you please after :)
